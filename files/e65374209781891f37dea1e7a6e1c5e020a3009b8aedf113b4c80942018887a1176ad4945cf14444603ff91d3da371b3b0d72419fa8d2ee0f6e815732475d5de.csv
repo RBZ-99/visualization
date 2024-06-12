@@ -1,0 +1,161 @@
+name,size
+root,
+root.Animals,
+root.Animals.Bugs_ Insects and Arachnids,
+root.Animals.Bugs_ Insects and Arachnids.Bees,8939
+root.Animals.Bugs_ Insects and Arachnids.Other,15782
+root.Animals.Mammals,
+root.Animals.Mammals.Dogs,18461
+root.Animals.Mammals.Elephants,2917
+root.Animals.Mammals.Horses,7587
+root.Animals.Mammals.Other,17945
+root.Animals.Under the Sea,
+root.Animals.Under the Sea.Fish,25258
+root.Animals.Under the Sea.Other,13424
+root.Buildings and Architecture,
+root.Buildings and Architecture.Industrial and Commercial Buildings,
+root.Buildings and Architecture.Industrial and Commercial Buildings.Other,1606
+root.Buildings and Architecture.Industrial and Commercial Buildings.Skycrappers and Towers,4987
+root.Buildings and Architecture.Monuments,
+root.Buildings and Architecture.Monuments.Other,15537
+root.Buildings and Architecture.Monuments.Ruins,3133
+root.Buildings and Architecture.Monuments.Statues,10097
+root.Buildings and Architecture.Other,56292
+root.Buildings and Architecture.Private Buildings,
+root.Buildings and Architecture.Private Buildings.Doors,387
+root.Buildings and Architecture.Private Buildings.Other,17054
+root.Buildings and Architecture.Public Buildings,
+root.Buildings and Architecture.Public Buildings.Other,1539
+root.Buildings and Architecture.Public Buildings.Parks,103377
+root.Business,
+root.Business.Business Concepts,45877
+root.Business.Business Situations,
+root.Business.Business Situations.Coffee Break,1973
+root.Business.Finance,
+root.Business.Finance.Money_ Currency and Credit Cards,19450
+root.Business.Sales,
+root.Business.Sales.Marketing_ Advertising and PR,4107
+root.Drinks,
+root.Drinks.Other,22409
+root.Drinks.Water,5130
+root.Environment,
+root.Environment.Wonders of Nature,
+root.Environment.Wonders of Nature.Comets and Shooting Stars,1131
+root.Environment.Wonders of Nature.Other,7756
+root.Feelings Emotions and States of Mind,
+root.Feelings Emotions and States of Mind.Anger,
+root.Feelings Emotions and States of Mind.Anger.Rage,736
+root.Feelings Emotions and States of Mind.Happiness,
+root.Feelings Emotions and States of Mind.Happiness.Love and Romance,5968
+root.Food,
+root.Food.Cheese and Dairy,
+root.Food.Cheese and Dairy.Other,699
+root.Food.Meals,
+root.Food.Meals.Other,101814
+root.Food.Meals.Other European Food,2023
+root.Food.Pasta,2771
+root.Food.Seafood,
+root.Food.Seafood.Fish,2788
+root.Food.Seafood.Other,762
+root.Food.Seafood.Shellfish,1066
+root.Food.Sweets and Desserts,
+root.Food.Sweets and Desserts.Other,4077
+root.Graphic ressources,
+root.Graphic ressources.Abstract,
+root.Graphic ressources.Abstract.Motion,17291
+root.Graphic ressources.Abstract.Other,4946
+root.Graphic ressources.Backgrounds,131012
+root.Graphic ressources.Greeting cards,
+root.Graphic ressources.Greeting cards.Christmas,13220
+root.Graphic ressources.Greeting cards.Other,513
+root.Graphic ressources.Signs and Symbols,
+root.Graphic ressources.Signs and Symbols.Business,2011
+root.Graphic ressources.Signs and Symbols.Letters and Numbers,19668
+root.Graphic ressources.Signs and Symbols.Other,26600
+root.Hobbies and Leisure,
+root.Hobbies and Leisure.Entertainment,
+root.Hobbies and Leisure.Entertainment.Disco and Clubs,7224
+root.Hobbies and Leisure.Entertainment.Other,5523
+root.Hobbies and Leisure.Holidays,
+root.Hobbies and Leisure.Holidays.Around the World,5757
+root.Hobbies and Leisure.Holidays.Beach Holidays,27439
+root.Hobbies and Leisure.Holidays.Tourism,11460
+root.Industry,
+root.Industry.Agriculture,
+root.Industry.Agriculture.Fields,62021
+root.Industry.Agriculture.Other,4201
+root.Industry.Heavy Industry,
+root.Industry.Heavy Industry.Construction,30325
+root.Landscapes,
+root.Landscapes.Other,6110
+root.Landscapes.Seasons,
+root.Landscapes.Seasons.Fall,24239
+root.Landscapes.Seasons.Winter,27565
+root.Landscapes.Sky,
+root.Landscapes.Sky.Clouds,82548
+root.Landscapes.Sky.Other,45634
+root.Landscapes.Urban,
+root.Landscapes.Urban.Other,1188
+root.Landscapes.Urban.Public Gardens and Squares,3390
+root.Landscapes.Water,
+root.Landscapes.Water.Beaches,121039
+root.Landscapes.Water.Coastlines,19325
+root.Landscapes.Water.Falls and Geysers,17256
+root.Landscapes.Water.Lakes and Ponds,18767
+root.Landscapes.Water.Other,49658
+root.Landscapes.Water.Rivers,23077
+root.Landscapes.Water.Seas and Oceans,32441
+root.Lifestyle,
+root.Lifestyle.Beauty and Body Care,
+root.Lifestyle.Beauty and Body Care.Make Up,5469
+root.Lifestyle.Beauty and Body Care.Other,2813
+root.Lifestyle.Education,
+root.Lifestyle.Education.High School,19828
+root.Lifestyle.Fashion,
+root.Lifestyle.Fashion.Other,66785
+root.People,
+root.People.Babies,49128
+root.People.Couples,
+root.People.Couples.Other,5571
+root.People.Family Life,
+root.People.Family Life.Other,84792
+root.People.Men,172192
+root.People.Teenagers,50922
+root.People.Women,320410
+root.Plants and Flowers,
+root.Plants and Flowers.Trees,
+root.Plants and Flowers.Trees.Other Trees,44974
+root.Religion and Culture,
+root.Religion and Culture.International Celebrations,
+root.Religion and Culture.International Celebrations.Christmas,41333
+root.Religion and Culture.Religion,
+root.Religion and Culture.Religion.Christianism,4617
+root.Religion and Culture.Religion.Prayers_ Meditation and Relaxation,10971
+root.Science,
+root.Science.Applied and Fundamental Sciences,
+root.Science.Applied and Fundamental Sciences.Chemistry,4829
+root.Science.Health and Medicine,
+root.Science.Health and Medicine.Health Care,8473
+root.Science.Health and Medicine.Medical Equipements,16596
+root.Science.Outer space,
+root.Science.Outer space.Other,1199
+root.Science.Outer space.The Moon,1639
+root.Social Issue,127166
+root.Sports,
+root.Sports.Outdoor Sports,
+root.Sports.Outdoor Sports.Other,90318
+root.Sports.Winter Sports,
+root.Sports.Winter Sports.Other,2519
+root.Technology,
+root.Technology.Internet and Networks,
+root.Technology.Internet and Networks.Wireless,5111
+root.Transports,
+root.Transports.On the Road,
+root.Transports.On the Road.Other,2690
+root.Transports.On the Road.Trucks,11481
+root.Travel,
+root.Travel.Asian cities,
+root.Travel.Asian cities.Tokyo,900
+root.Travel.European Cities,
+root.Travel.European Cities.Lisbon,839
+root.Travel.Other,3814
